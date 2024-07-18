@@ -14,7 +14,9 @@ Execute `npx cypress open` para abrir o Cypress em modo interativo.
 
 ________
 
-Este projeto foi criado por [Willian Osaida]([https://www.linkedin.com/in/willianosaida/])
+Este projeto foi criado por Willian Osaida
+
+Este projeto foi criado por [Willian Osaida]([linkedin.com/in/willianosaida])
 
 
 
