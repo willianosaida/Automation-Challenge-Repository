@@ -1,20 +1,20 @@
 # Automation-Challenge-Repository
 Repositório da automação de testes do site HRM Orange, usando cypress.
 
-## Pre-requirements
+## Pré-requisitos
+É necessário ter o Node.js e o npm instalados para executar este projeto.
 
-It is required to have Node.js and npm installed to run this project.
+> Eu usei as versões `v18.16.0` e `9.6.7` do Node.js e npm, respectivamente.
 
-> I used versions `v18.16.0` and `9.6.7` of Node.js and npm, respectively.
+## Instalação
+Execute `npm install` (ou `npm i` para a versão curta) para instalar as dependências de desenvolvimento.
 
-## Installation
+## Testes
+Execute `npx cypress open` para abrir o Cypress em modo interativo.
 
-Run `npm install` (or `npm i` for the short version) to install the dev dependencies.
+________
 
-## Tests
+Este projeto foi criado por [Willian Osaida]([https://www.linkedin.com/in/willianosaida/]).
 
-Run `npx cypress open` to open Cypress in interactive mode.
 
-___
 
-This project was created by [Willian Osaida]([https://www.linkedin.com/in/willianosaida/]).
